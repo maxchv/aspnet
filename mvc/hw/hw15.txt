@@ -1,0 +1,5 @@
+«адание:
+
+»спользу€ руководство https://docs.microsoft.com/ru-ru/aspnet/core/security/authentication/social/google-logins?tabs=aspnetcore2x
+и https://docs.microsoft.com/ru-ru/aspnet/core/security/authentication/social/facebook-logins?tabs=aspnetcore2x
+реализовать внешний вход на сайт использу€ учетные записи google или facebook
